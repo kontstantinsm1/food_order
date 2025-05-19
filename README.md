@@ -16,7 +16,6 @@ A sleek, single-page landing site built to showcase an intelligent voice assista
 - **React 18**
 - **Tailwind CSS**
 - **TypeScript**
-- **Pipecat AI SDK** – for real-time voice interaction
 
 ##  Development
 

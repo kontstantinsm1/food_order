@@ -23,6 +23,6 @@ A sleek, single-page landing site built to showcase an intelligent voice assista
 To run locally:
 
 ```bash
-npm install
-npm run dev
+yarn install
+yarn dev
 ```
